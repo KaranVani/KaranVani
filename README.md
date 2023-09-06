@@ -1,8 +1,7 @@
 
 
 # 💫 About Me:
-Hi, I'm Karan Vani! 
-Final year computer science student and future cloud engineer!
+Computers go brr
 
 
 
